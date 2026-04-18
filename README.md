@@ -1,250 +1,328 @@
+<!-- HEADER BANNER -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Utsav%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Dev%20%E2%80%A2%20React%20Native%20%E2%80%A2%20AI%20Builder&descSize=18&descAlignY=62&descColor=a78bfa" width="100%" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Utsav%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20MERN%20%7C%20React%20Native%20Developer&descAlignY=55&descAlign=50" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+web+%26+mobile+apps+%F0%9F%9A%80;MERN+Stack+%7C+React+Native+Developer;AI-powered+product+builder+%F0%9F%A4%96;Open+to+exciting+opportunities!)](https://git.io/typing-svg)
+<!-- TYPING SVG -->
+<div align="center">
+  <a href="https://github.com/utsav370singh">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=800&color=A78BFA&center=true&vCenter=true&random=false&width=700&height=45&lines=hey+there%2C+i'm+utsav+%F0%9F%91%8B;vibe+coding+since+2022+%E2%9A%A1;shipping+apps+to+prod+%F0%9F%9A%80;MERN+%7C+React+Native+%7C+AI+integration;building+the+next+big+thing+%F0%9F%94%A5;open+to+collabs+%26+opportunities+%F0%9F%A4%9D" alt="Typing SVG" />
+  </a>
+</div>
 
 <br/>
 
-<a href="https://github.com/utsav370singh">
-  <img src="https://img.shields.io/github/followers/utsav370singh?label=Followers&style=for-the-badge&color=6E40C9&labelColor=0D1117&logo=github" />
-</a>
-&nbsp;
+<!-- SOCIAL BADGES -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/utsavsingh265/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:utsavsingh265@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/utsav370singh" target="_blank">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=utsav370singh&label=profile+views&color=a78bfa&style=for-the-badge" />
+</div>
+
+<br/>
+
+---
+
+<!-- ABOUT TERMINAL -->
+## `whoami`
+
+```bash
+┌──(utsav㉿jaipur)-[~/dev]
+└─$ cat about.json
+```
+
+```json
+{
+  "name"       : "Utsav Singh",
+  "status"     : "B.Tech 3rd Year 🎓",
+  "location"   : "Jaipur, Rajasthan 🇮🇳",
+  "role"       : "Junior Dev @ MyRupaya (Contentedge Pvt. Ltd.)",
+  "vibe"       : "vibe coding & shipping daily ⚡",
+
+  "currently"  : [
+    "🤖 building AI-powered fintech apps",
+    "📱 scaling mobile to Play Store & App Store",
+    "🔥 cooking up new side projects"
+  ],
+
+  "fun_facts"  : [
+    "🏆 hackathon winner (Innovastra Code-Crunch 2023)",
+    "🌙 night owl who ships features at 2am",
+    "🎯 turning caffeine → code → products"
+  ],
+
+  "open_to"    : ["full-time roles", "freelance", "collabs", "hackathons"]
+}
+```
+
+```bash
+┌──(utsav㉿jaipur)-[~/dev]
+└─$ █
+```
+
+---
+
+<!-- TECH STACK WITH SKILL ICONS -->
+## `tech_stack.exe`
+
+<div align="center">
+
+### ⚡ Core Stack
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,firebase,tailwind&theme=dark&perline=7" />
+
+### 📱 Mobile · Tools · Deployment
+<img src="https://skillicons.dev/icons?i=react,git,github,postman,vercel,netlify,vscode&theme=dark&perline=7" />
+
+### 🤖 Also Know
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,bootstrap,figma&theme=dark&perline=7" />
+
+<br/>
+
+| Category | Tools |
+|:---:|:---|
+| 🌐 **Frontend** | React.js · React Native · Tailwind CSS · Framer Motion · HTML5 · CSS3 |
+| ⚙️ **Backend** | Node.js · Express.js · REST APIs |
+| 🗄️ **Database** | MongoDB · Firebase Firestore |
+| 🔐 **Auth** | JWT · Firebase Auth |
+| 🤖 **AI / LLM** | OpenAI API · Julius AI · Manus AI |
+| ☁️ **DevOps** | Vercel · Netlify · Render · Expo · Cloudinary |
+
+</div>
+
+---
+
+<!-- PROJECTS SECTION -->
+## `ls -la ~/projects/`
+
+<br/>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💳 MyRupaya</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/LIVE-Play%20Store%20%26%20App%20Store-success?style=for-the-badge&logo=android"/>
+        <br/><br/>
+        <p align="center">
+          <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+          <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb"/>
+        </p>
+        <p>AI-powered fintech platform — credit card comparison, personalized offers & an OpenAI financial assistant. Shipped live to <strong>both stores</strong> 🚀</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🏆 KHEL</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Full%20Stack-MERN-green?style=for-the-badge&logo=mongodb"/>
+        <br/><br/>
+        <p align="center">
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+          <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens"/>
+          <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square"/>
+        </p>
+        <p>Sports tournament platform — geolocation discovery, reputation scoring, district leaderboards & role-based access for players, teams & organizers 🏅</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📚 StudHub</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/MERN-Student%20Platform-blueviolet?style=for-the-badge"/>
+        <br/><br/>
+        <p align="center">
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb"/>
+        </p>
+        <p>Student collaboration hub — share notes, resources & study material. Community-driven architecture for peer-to-peer learning 🎓</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🧠 Vdhur</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Netlify-Deployed-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+        <br/><br/>
+        <p align="center">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3"/>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+          <img src="https://img.shields.io/badge/AI-Powered-412991?style=flat-square&logo=openai"/>
+        </p>
+        <p>Mental wellness platform — WHO-inspired therapy content, AI conversational assistant for emotional support & guided resources 💚</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- GITHUB STATS -->
+## `git log --stats`
+
+<div align="center">
+
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=utsav370singh&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa" />
+<img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=utsav370singh&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa&stroke=a78bfa" />
+
+<br/>
+
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsav370singh&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
+
+</div>
+
+---
+
+<!-- TROPHIES -->
+## `achievements --unlocked`
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=utsav370singh&theme=dracula&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" />
+</div>
+
+---
+
+<!-- ACTIVITY GRAPH -->
+## `git graph --contributions`
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utsav370singh&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=f97316&area=true&area_color=a78bfa" width="97%" />
+</div>
+
+---
+
+<!-- SNAKE CONTRIBUTION ANIMATION -->
+## `contributions.snake()`
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/utsav370singh/utsav370singh/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/utsav370singh/utsav370singh/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/utsav370singh/utsav370singh/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
+<!-- WORK EXP TIMELINE -->
+## `git log --experience`
+
+```
+commit [Jul 2024 → present]
+│   Junior Developer @ MyRupaya — Contentedge Pvt. Ltd.
+│   → AI chatbot · credit scoring · OpenAI API · mobile + web
+│
+commit [May 2024 → Jul 2024]
+│   Frontend Intern @ Programmates
+│   → React components · JWT auth · Tailwind CSS · EmailJS
+│
+commit [Feb 2024 → May 2024]
+    Frontend Intern @ SingleTap
+    → HTML/CSS/JS · SEO optimization · responsive UI
+```
+
+---
+
+<!-- AWARDS -->
+## `sudo get-achievements`
+
+<div align="center">
+
+```
+🏆  Innovastra Code-Crunch     →  Winner          [AIET Hackathon 2023]
+🌟  AIET Internal Hackathon    →  Winner           [2023]
+⭐  Intern of the Month        →  Top Performer    [Contentedge Pvt. Ltd. 2024]
+```
+
+</div>
+
+---
+
+<!-- DEV QUOTE -->
+## `fortune | cowsay`
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+---
+
+<!-- CONNECT SECTION -->
+## `ping utsav --connect`
+
+<div align="center">
+
 <a href="https://www.linkedin.com/in/utsavsingh265/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/LinkedIn-let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:utsavsingh265@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Gmail-slide%20into%20my%20inbox-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
 </a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=utsav370singh&style=for-the-badge&color=6E40C9&label=PROFILE+VIEWS&abbreviated=true" />
-
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-```javascript
-const utsav = {
-  name        : "Utsav Singh",
-  location    : "Jaipur, Rajasthan 🇮🇳",
-  role        : "Full-Stack MERN & React Native Developer",
-  company     : "MyRupaya — Contentedge Private Limited",
-  education   : "B.Tech @ Arya Institute of Engineering & Technology",
-  
-  currently   : ["Building AI-powered fintech products 💳",
-                 "Scaling mobile apps on Play Store & App Store 📱",
-                 "Exploring LLM integrations & AI tooling 🤖"],
-
-  techStack   : {
-    frontend  : ["React.js", "React Native", "Tailwind CSS", "Framer Motion"],
-    backend   : ["Node.js", "Express.js", "REST APIs"],
-    database  : ["MongoDB"],
-    auth      : ["JWT", "Firebase"],
-    ai        : ["OpenAI API", "Julius AI", "Manus AI"],
-    devtools  : ["Postman", "GitHub", "Expo", "Vercel", "Netlify", "Render"]
-  },
-  
-  superpower  : "Turning complex ideas into clean, scalable products ⚡"
-};
-```
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### 🌐 Languages & Markup
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚛️ Frameworks & Runtime
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
-### 🗄️ Database & Auth
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-### 🤖 AI & APIs
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google APIs](https://img.shields.io/badge/Google%20APIs-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-### ☁️ Deployment & DevTools
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 💳 MyRupaya — AI-Powered Fintech Platform
-</div>
-
-> **Live on Play Store & App Store** · React Native · Node.js · OpenAI API · Firebase · MongoDB
-
-- 🤖 Built an **OpenAI-powered financial assistant** for personalized credit card & offer recommendations
-- 🔐 Secure Firebase authentication with real-time data sync across web & mobile
-- 🧠 Implemented **custom AI scoring algorithms** to rank credit cards based on user behavior
-- 📱 End-to-end development — from design to **production deployment** on both stores
-
-<div align="center">
-  <img src="https://img.shields.io/badge/React%20Native-Mobile%20App-61DAFB?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/OpenAI-AI%20Powered-412991?style=flat-square&logo=openai"/>
-  <img src="https://img.shields.io/badge/Firebase-Auth%20%26%20DB-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Status-Live%20on%20Stores-success?style=flat-square"/>
-</div>
-
----
-
-<div align="center">
-
-### 🏆 KHEL — Sports Tournament Management Platform
-</div>
-
-> **Full-Stack** · React · Node.js · Express · MongoDB · Cloudinary
-
-- ⚽ Full-stack sports platform with **tournament discovery, team management & leaderboards**
-- 🔑 JWT auth + **role-based access control** for players, organizers & admins
-- 📍 **Geolocation-based** tournament discovery with automated email notifications
-- 🏅 Player reputation scoring system, district leaderboards & admin moderation tools
-
-<div align="center">
-  <img src="https://img.shields.io/badge/MERN-Full%20Stack-20232A?style=flat-square&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/JWT-Role%20Based%20Auth-000000?style=flat-square&logo=jsonwebtokens"/>
-  <img src="https://img.shields.io/badge/Cloudinary-Media%20Uploads-3448C5?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Geolocation-Enabled-brightgreen?style=flat-square"/>
-</div>
-
----
-
-<div align="center">
-
-### 🧠 Vdhur — Mental Wellness Platform
-</div>
-
-> **Frontend** · HTML · CSS · JavaScript · Bootstrap · Netlify
-
-- 💚 Wellness platform with **AI-powered conversational assistant** for therapy & emotional support
-- 🌍 WHO-inspired therapy content delivered through guided resources
-- 📱 Fully responsive UI with clean, calming design — **deployed on Netlify**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML%2FCSS%2FJS-Frontend-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI-Conversational%20Assistant-412991?style=flat-square&logo=openai"/>
-  <img src="https://img.shields.io/badge/Netlify-Deployed-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
-</div>
-
----
-
-<div align="center">
-
-### 📚 StudHub — Student Collaboration Platform
-</div>
-
-> **Full-Stack** · React · Node.js · MongoDB
-
-- 🎓 Collaborative platform designed for students to **share resources, notes & study material**
-- 🔐 Secure authentication and user-based content management
-- 🤝 Community-driven architecture for peer learning
-
-<div align="center">
-  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-Database-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=utsav370singh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=ffffff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=utsav370singh&theme=tokyonight&hide_border=true&background=0D1117&stroke=6E40C9&ring=6E40C9&fire=FF6B6B&currStreakLabel=6E40C9" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsav370singh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=ffffff&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=utsav370singh&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6E40C9&line=6E40C9&point=ffffff" />
-
-</div>
-
----
-
-## 🏅 Achievements & Recognition
-
-<div align="center">
-
-| 🏆 Award | 📅 Year |
-|:---|:---|
-| 🥇 **Innovastra Code-Crunch** — Hackathon Winner | 2023 |
-| 🌟 **AIET Hackathon** — Winner | 2023 |
-| 🏅 **Intern of the Month** — Contentedge Private Limited | 2024 |
-
-</div>
-
----
-
-## 💼 Work Experience
-
-```
-🏢  MyRupaya — Contentedge Pvt. Ltd.     Jul 2024 – Present
-    Junior Developer
-    → AI-powered fintech web & mobile app | OpenAI chatbot | Credit scoring
-
-🏢  Programmates                         May 2024 – Jul 2024
-    Frontend Intern
-    → React components | JWT Auth | Tailwind CSS | EmailJS integration
-
-🏢  SingleTap                            Feb 2024 – May 2024
-    Frontend Intern
-    → UI components | SEO optimization | Responsive design
-```
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/utsavsingh265/">
-  <img src="https://img.shields.io/badge/LinkedIn-utsavsingh265-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/utsav370singh">
-  <img src="https://img.shields.io/badge/GitHub-utsav370singh-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:utsavsingh265@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-utsavsingh265%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="tel:+919079956406">
-  <img src="https://img.shields.io/badge/Phone-%2B91%2090799%2056406-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-follow%20the%20journey-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
 </a>
 
 <br/><br/>
 
-> *"Code is not just instructions for a machine — it's a story for the next developer."*
+```
+  available for : freelance  ·  internships  ·  full-time  ·  hackathons  ·  collabs
+  response time : usually within 24hrs ⚡
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<br/>
+
+> *shipped real products. won hackathons. still hungry. no cap. 🔥*
 
 </div>
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=twinkling" width="100%" />
+
+<!--
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ⚡ SNAKE ANIMATION SETUP (one-time)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. Go to repo Settings → Actions → General
+2. Set Workflow permissions → "Read and write permissions"
+3. Create: .github/workflows/snake.yml
+
+───── snake.yml content below ─────
+
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: utsav370singh
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+4. Run the workflow manually once from Actions tab
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+-->
